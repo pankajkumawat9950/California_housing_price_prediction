@@ -31,7 +31,7 @@ This project demonstrates how to run **inference on housing data** using a train
    * `input.csv`
 3. Open the notebook:
    ```bash
-   jupyter notebook mmain.ipynb
+   jupyter notebook main.ipynb
    ```
 4. Run the cells — the script will:
    * Load the model and pipeline
